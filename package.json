@@ -1,0 +1,31 @@
+{
+  "name": "adv-souza",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "framer-motion": "^7.6.1",
+    "gsap": "^3.11.3",
+    "locomotive-scroll": "^4.1.4",
+    "next-videos": "^1.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-id-swiper": "^4.0.0",
+    "react-locomotive-scroll": "^0.2.2",
+    "styled-components": "^5.3.6",
+    "swiper": "^8.4.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.0"
+  }
+}
